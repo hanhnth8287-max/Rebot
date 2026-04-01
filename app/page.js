@@ -244,18 +244,3 @@ export default function Home() {
     </div>
   );
 }
-```
-
-Trên GitHub: **Add file → Create new file** → gõ tên `app/page.js` → paste toàn bộ code trên → **Commit changes**.
-
-Vậy là đủ 6 file! Sau khi commit xong file cuối, kiểm tra repo thấy cấu trúc như này là chuẩn:
-```
-app/
-  api/
-    chat/
-      route.js
-  globals.css
-  layout.js
-  page.js
-next.config.js
-package.json
